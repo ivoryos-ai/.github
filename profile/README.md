@@ -1,22 +1,28 @@
-# [IvoryOS](https://ivoryos.ai): build for self-driving laboratories (SDLs) 
-[![YouTube](https://img.shields.io/badge/YouTube-tutorial-red?logo=youtube)](https://youtu.be/dFfJv9I2-1g)
+# [IvoryOS](https://ivoryos.ai): Make Python-Based Self-Driving Labs Scalable
+
+[![YouTube](https://img.shields.io/badge/YouTube-IvoryOS-red?logo=youtube)](https://www.youtube.com/@IvoryOS)
 [![Community](https://img.shields.io/discord/1313641159356059770?label=Discord&logo=discord&color=5865F2)](https://discord.gg/3KdjhUmsYA)
 
-## Community
-<img width="1260" height="392" alt="image" src="https://github.com/user-attachments/assets/70435309-2b1f-47de-9177-c2f7353363f9" />
-A community space for scientists. Discover modules, download a launcher, and start building with IvoryOS. 
-
+IvoryOS is an open-source operating system for self-driving labs. It turns existing Python scripts into scalable, visual, and reproducible automation platforms.
 
 ## IvoryOS Open Core
-![code_launch_design.png](https://gitlab.com/heingroup/ivoryos/raw/main/docs/source/_static/code_launch_design.png)
 
-IvoryOS is a visual workflow engine and automation layer that sits on top of ordinary Python scripts. With only two lines of code, you can wrap an existing module and immediately get:
-- A web-based GUI with cards for each function
-- A visual programming interface (like Scratch, but for lab automation)
-- A built-in database for workflows and experiment tracking
-- A pluggable optimization engine (Bayesian optimization, Ax, etc.)
-- Natural language interface support
+<img width="1914" height="640" alt="IvoryOS Open Core interface" src="https://github.com/user-attachments/assets/04c28f73-353a-45ad-b93f-36ad359b2dc1" />
 
-IvoryOS is built to make automation accessible to scientists who are not programmers — while still giving developers full power and control.
+IvoryOS automatically generates a drag-and-drop interface from an existing Python script.
 
-## IvoryOS directory 
+With one line of code, you can wrap existing modules and immediately get:
+
+- A control panel for Python modules
+- A visual workflow designer, like Scratch for lab automation
+- A built-in workflow engine and experiment tracking
+- A pluggable optimization engine, including Bayesian optimization and Ax
+- Natural language text-to-code support
+
+IvoryOS reduces UI maintenance work for engineers and makes automation accessible to scientists from day one.
+
+## IvoryOS Hub
+
+A community platform for scientists to discover platforms, modules, templates, and reproducible workflows without Python setup hassle.
+
+<img width="1274" height="395" alt="IvoryOS Hub interface" src="https://github.com/user-attachments/assets/16a8d80e-28ca-49eb-ba04-d21a68af4a7b" />
