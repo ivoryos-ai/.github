@@ -7,7 +7,7 @@ IvoryOS is an open-source operating system for self-driving labs. It turns exist
 
 ## IvoryOS Open Core
 
-<img width="1914" height="640" alt="IvoryOS Open Core interface" src="https://github.com/user-attachments/assets/04c28f73-353a-45ad-b93f-36ad359b2dc1" />
+<img width="1914" height="640" alt="IvoryOS Open Core interface" src="https://raw.githubusercontent.com/ivoryos-ai/IvoryOS/main/docs/source/_static/code_to_ui.gif" />
 
 IvoryOS automatically generates a drag-and-drop interface from an existing Python script.
 
